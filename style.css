@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    color: red;
+    background-color: green;
+    border-radius: 20%;
+}
